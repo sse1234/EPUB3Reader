@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu_file_chooser.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\menu\\file_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu_tocview.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\menu\\tocview.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu_data_view.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\menu\\data_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_audio_view.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\layout\\activity_audio_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_data_view.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\layout\\activity_data_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu_audio_view.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\menu\\audio_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu_book_view.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\menu\\book_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout_change_css.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\layout\\change_css.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_book_view.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\layout\\activity_book_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu_split_panel.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\menu\\split_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_split_panel.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\layout\\activity_split_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout_file_chooser_layout.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\layout\\file_chooser_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout_set_panel_size.xml.flat",
+        "source": "C:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\src\\main\\res\\layout\\set_panel_size.xml"
+    }
+]
