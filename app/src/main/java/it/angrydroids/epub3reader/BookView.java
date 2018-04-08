@@ -57,10 +57,14 @@ public class BookView extends SplitPanel {
     public void onActivityCreated(Bundle saved) {
 		super.onActivityCreated(saved);
 		view = (WebView) getView().findViewById(R.id.Viewport);
-		
+
+		view.setInitialScale(225);
+
+		view.setOverScrollMode(View.OVER_SCROLL_NEVER);
+
 		// enable JavaScript for cool things to happen!
 		view.getSettings().setJavaScriptEnabled(true);
-		
+
 		// ----- SWIPE PAGE
 		view.setOnTouchListener(new OnTouchListener() {
 			@Override
@@ -145,7 +149,13 @@ public class BookView extends SplitPanel {
 				} catch (Exception e) {
 					errorMessage(getString(R.string.error_cannotTurnPage));
 				}
-			}
+			} else {
+			    if (swipeOriginY < screenHeight / 2) {
+                    ((WebView) view).pageUp(false);
+                } else {
+                    ((WebView) view).pageDown(false);
+                }
+            }
 			break;
 		}
 

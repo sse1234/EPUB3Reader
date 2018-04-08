@@ -1,4 +1,4 @@
-#Sat Apr 07 19:18:24 CEST 2018
-base.0=C\:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Sun Apr 08 21:55:06 CEST 2018
+base.0=C\:\\Users\\a\\AndroidStudioProjects\\EPUB3Reader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
 path.0=classes.dex
 renamed.0=classes.dex
