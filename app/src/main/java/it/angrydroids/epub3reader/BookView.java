@@ -58,7 +58,7 @@ public class BookView extends SplitPanel {
 		super.onActivityCreated(saved);
 		view = (WebView) getView().findViewById(R.id.Viewport);
 
-		view.setInitialScale(225);
+		view.setInitialScale(300);
 
 		view.setOverScrollMode(View.OVER_SCROLL_NEVER);
 
