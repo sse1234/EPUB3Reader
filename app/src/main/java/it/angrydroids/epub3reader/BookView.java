@@ -149,7 +149,7 @@ public class BookView extends SplitPanel {
 				} catch (Exception e) {
 					errorMessage(getString(R.string.error_cannotTurnPage));
 				}
-			} else {
+			} else if (diffX < 3 && diffY < 3) {
 			    if (swipeOriginY < screenHeight / 2) {
                     ((WebView) view).pageUp(false);
                 } else {
